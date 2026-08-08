@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0268-missing-number) |
+| [1672-richest-customer-wealth](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
