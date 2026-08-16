@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1470-shuffle-the-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
