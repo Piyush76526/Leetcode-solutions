@@ -1,43 +1,25 @@
 class Solution {
 public:
-
-    bool notValid(char ch) {
-        if (ch >= 'A' && ch <= 'Z') return false;
-        else if (ch >= '0' && ch <= '9') return false;
-        else if (ch >= 'a' && ch <= 'z') return false;
-        else return true;
-    }
-
     bool isPalindrome(string s) {
+        int left = 0;
+        int right = s.length() - 1;
 
-        int n = s.size();
-        int i = 0;
-        int j = n - 1;
+        while (left < right) {
 
-        while (i < j) {
-
-            char x = s[i];
-            char y = s[j];
-
-            if (x >= 'A' && x <= 'Z')
-                x += 32;
-
-            if (y >= 'A' && y <= 'Z')
-                y += 32;
-
-            if (notValid(x))
-                i++;
-
-            else if (notValid(y))
-                j--;
-
-            else {
-                if (x != y)
-                    return false;
-
-                i++;
-                j--;
+            while (left < right && !isalnum(s[left])) {
+                left++;
             }
+
+            while (left < right && !isalnum(s[right])) {
+                right--;
+            }
+
+            if (tolower(s[left]) != tolower(s[right])) {
+                return false;
+            }
+
+            left++;
+            right--;
         }
 
         return true;
