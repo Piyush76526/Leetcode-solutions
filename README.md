@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
