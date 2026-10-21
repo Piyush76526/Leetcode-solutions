@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -151,4 +152,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0682-baseball-game) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
