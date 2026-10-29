@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -222,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush76526/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
