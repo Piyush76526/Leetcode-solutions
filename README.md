@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0682-baseball-game) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Matrix
 |  |
