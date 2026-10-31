@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1254-number-of-closed-islands](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush76526/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Matrix
 |  |
 | ------- |
