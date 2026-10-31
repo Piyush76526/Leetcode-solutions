@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0682-baseball-game) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
