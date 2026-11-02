@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0682-baseball-game) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 ## Two Pointers
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0881-boats-to-save-people](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
