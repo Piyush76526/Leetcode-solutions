@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush76526/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
