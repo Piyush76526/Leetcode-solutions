@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1598-crawler-log-folder](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush76526/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
 | ------- |
