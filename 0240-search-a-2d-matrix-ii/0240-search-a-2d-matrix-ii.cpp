@@ -6,14 +6,10 @@ public:
         int i = 0;
         int j = n-1;
         while(i<m && j>=0){
-            if(arr[i][j]>target)
-                j--;
-                else if(arr[i][j]<target)
-                i++;
-                else return true;
-            }
-            return false;
+            if(arr[i][j]>target) j--;
+            else if(arr[i][j]<target) i++;
+            else  return true;
         }
-        
-    
+        return false;
+    }
 };
