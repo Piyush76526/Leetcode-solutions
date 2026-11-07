@@ -1,36 +1,43 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
+
+        int r = matrix.size();
+        int c = matrix[0].size();
+
+        int minr = 0, maxr = r - 1;
+        int minc = 0, maxc = c - 1;
+
         vector<int> ans;
 
-        int top = 0;
-        int bottom = matrix.size() - 1;
-        int left = 0;
-        int right = matrix[0].size() - 1;
+        while(minr <= maxr && minc <= maxc) {
 
-        while (top <= bottom && left <= right) {
-            for (int i = left; i <= right; i++) {
-                ans.push_back(matrix[top][i]);
+            // Left to Right
+            for(int j = minc; j <= maxc; j++) {
+                ans.push_back(matrix[minr][j]);
             }
-            top++;
+            minr++;
 
-            for (int i = top; i <= bottom; i++) {
-                ans.push_back(matrix[i][right]);
+            // Top to Bottom
+            for(int i = minr; i <= maxr; i++) {
+                ans.push_back(matrix[i][maxc]);
             }
-            right--;
+            maxc--;
 
-            if (top <= bottom) {
-                for (int i = right; i >= left; i--) {
-                    ans.push_back(matrix[bottom][i]);
+            // Right to Left
+            if(minr <= maxr) {
+                for(int j = maxc; j >= minc; j--) {
+                    ans.push_back(matrix[maxr][j]);
                 }
-                bottom--;
+                maxr--;
             }
 
-            if (left <= right) {
-                for (int i = bottom; i >= top; i--) {
-                    ans.push_back(matrix[i][left]);
+            // Bottom to Top
+            if(minc <= maxc) {
+                for(int i = maxr; i >= minr; i--) {
+                    ans.push_back(matrix[i][minc]);
                 }
-                left++;
+                minc++;
             }
         }
 
