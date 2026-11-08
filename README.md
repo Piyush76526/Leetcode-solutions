@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1254-number-of-closed-islands](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush76526/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush76526/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -272,11 +275,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0112-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush76526/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush76526/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Quicksort
 |  |
@@ -304,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
