@@ -2,24 +2,16 @@
 class Solution {
 public:
     vector<int> sortArrayByParity(vector<int>& nums) {
-        vector<int> ans;
-
         int n = nums.size();
+        int i = 0;
 
-        // Step 1: Add all even numbers
-        for (int i = 0; i < n; i++) {
-            if (nums[i] % 2 == 0) {
-                ans.push_back(nums[i]);
+        for (int j = 0; j < n; j++) {
+            if (nums[j] % 2 == 0) {
+                swap(nums[i], nums[j]);
+                i++;
             }
         }
 
-        // Step 2: Add all odd numbers
-        for (int i = 0; i < n; i++) {
-            if (nums[i] % 2 != 0) {
-                ans.push_back(nums[i]);
-            }
-        }
-
-        return ans;
+        return nums;
     }
 };
