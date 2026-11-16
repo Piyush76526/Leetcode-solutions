@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Piyush76526/Leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Piyush76526/Leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush76526/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Piyush76526/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Piyush76526/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Piyush76526/Leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
